@@ -1,0 +1,227 @@
+{
+    "carousel_Data": [
+        {
+            "carousel_image": "c_1",
+            "listData": [
+                {
+                    "image": "1",
+                    "title": "Apple"
+                },
+                {
+                    "image": "2",
+                    "title": "Banana"
+                },
+                {
+                    "image": "3",
+                    "title": "Mango"
+                },
+                {
+                    "image": "4",
+                    "title": "Orange"
+                },
+                {
+                    "image": "5",
+                    "title": "Grapes"
+                },
+                {
+                    "image": "6",
+                    "title": "Pineapple"
+                },
+                {
+                    "image": "7",
+                    "title": "Watermelon"
+                },
+                {
+                    "image": "8",
+                    "title": "Papaya"
+                },
+                {
+                    "image": "9",
+                    "title": "Pomegranate"
+                },
+                {
+                    "image": "19",
+                    "title": "Papaya"
+                },
+                {
+                    "image": "20",
+                    "title": "Pomegranate"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_2",
+            "listData": [
+                {
+                    "image": "9",
+                    "title": "Pomegranate"
+                },
+                {
+                    "image": "8",
+                    "title": "Papaya"
+                },
+                {
+                    "image": "7",
+                    "title": "Watermelon"
+                },
+                {
+                    "image": "6",
+                    "title": "Pineapple"
+                },
+                {
+                    "image": "5",
+                    "title": "Grapes"
+                },
+                {
+                    "image": "4",
+                    "title": "Orange"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_3",
+            "listData": [
+                {
+                    "image": "3",
+                    "title": "Mango"
+                },
+                {
+                    "image": "2",
+                    "title": "Banana"
+                },
+                {
+                    "image": "7",
+                    "title": "Watermelon"
+                },
+                {
+                    "image": "6",
+                    "title": "Pineapple"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_4",
+            "listData": [
+                {
+                    "image": "7",
+                    "title": "Grapes"
+                },
+                {
+                    "image": "6",
+                    "title": "Pineapple"
+                },
+                {
+                    "image": "9",
+                    "title": "Pomegranate"
+                },
+                {
+                    "image": "8",
+                    "title": "Papaya"
+                },
+                {
+                    "image": "7",
+                    "title": "Watermelon"
+                },
+                {
+                    "image": "6",
+                    "title": "Pineapple"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_5",
+            "listData": [
+                {
+                    "image": "20",
+                    "title": "Pineapple"
+                },
+                {
+                    "image": "15",
+                    "title": "Pomegranate"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_6",
+            "listData": [
+                {
+                    "image": "5",
+                    "title": "Grapes"
+                },
+                {
+                    "image": "6",
+                    "title": "Pineapple"
+                },
+                {
+                    "image": "1",
+                    "title": "Apple"
+                },
+                {
+                    "image": "2",
+                    "title": "Banana"
+                },
+                {
+                    "image": "3",
+                    "title": "Mango"
+                },
+                {
+                    "image": "4",
+                    "title": "Orange"
+                },
+                {
+                    "image": "7",
+                    "title": "Watermelon"
+                },
+                {
+                    "image": "8",
+                    "title": "Papaya"
+                },
+                {
+                    "image": "9",
+                    "title": "Pomegranate"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_7",
+            "listData": [
+                {
+                    "image": "11",
+                    "title": "Apple"
+                },
+                {
+                    "image": "12",
+                    "title": "Banana"
+                },
+                {
+                    "image": "13",
+                    "title": "Mango"
+                },
+                {
+                    "image": "14",
+                    "title": "Orange"
+                },
+                {
+                    "image": "15",
+                    "title": "Grapes"
+                },
+                {
+                    "image": "16",
+                    "title": "Pineapple"
+                },
+                {
+                    "image": "17",
+                    "title": "Watermelon"
+                },
+                {
+                    "image": "18",
+                    "title": "Papaya"
+                },
+                {
+                    "image": "19",
+                    "title": "Pomegranate"
+                }
+            ]
+        }
+    ]
+}
